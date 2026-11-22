@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+downloads/
+*.mp3
+*.mp4
+*.mkv
+*.webm
+cookies.txt
+
+.streamlit/secrets.toml
